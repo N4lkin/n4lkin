@@ -2,8 +2,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n4lkin" alt="n4lkin" /></a> </p>
 
 
-<h4 align="center">Now I am evolving as a Backend developer. I have a goal to write a service for users from all over the world and for this I need to evolving more</h3>
-
 
 
 <h3 align="left">My stack:</h3>
@@ -13,4 +11,5 @@
 
 <p align="left">
 </p>
->
+
+<h4 align="center">Now I am evolving as a Backend developer. I have a goal to write a service for users from all over the world and for this I need to evolving more</h3>
