@@ -12,4 +12,4 @@
 <p align="left">
 </p>
 
-<h4 align="center">Now I am evolving as a Backend developer. I have a goal to write a service for users from all over the world and for this I need to evolving more</h3>
+<h4 align="center">Now I am evolving as a Backend developer. I have a goal to write a service for users from all over the world and for this I need to evolving more. Good luck 🍀</h3>
