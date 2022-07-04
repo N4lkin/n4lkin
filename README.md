@@ -1,4 +1,4 @@
-<h3 align="center">Python backend developer</h3>
+<h3 align="center">Hi! I'm Ilya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n4lkin&label=Visitors&color=29d1a7&style=flat" alt="n4lkin" /> </p>
 
