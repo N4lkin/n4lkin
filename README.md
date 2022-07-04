@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Python backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n4lkin&label=Visitors&color=29d1a7&style=flat" alt="n4lkin" /> </p>
 
@@ -14,3 +14,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n4lkin&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="n4lkin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n4lkin&show_icons=true&theme=cobalt&locale=en" alt="n4lkin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n4lkin&" alt="n4lkin" /></p>
