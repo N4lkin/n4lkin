@@ -8,8 +8,3 @@
 
 <p align="left">
 </p>
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n4lkin&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="n4lkin" /></p>
