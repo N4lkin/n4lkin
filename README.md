@@ -1,15 +1,61 @@
-<h3 align="center">Hi! I'm Ilya</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n4lkin" alt="n4lkin" /></a> </p>
-
-
-
-
-<h3 align="left">My stack:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLbhzeCAsRojE_A5Jom1lNaMjhCZAVKNj_UKwGgoHq2STBTCpzZ30TO5gMujtCBeyVzas&usqp=CAU" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://daniel.feldroy.com/images/drf.png" alt="postgresql" width="40" height="40"/></a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n4lkin&label=Visitors&color=29d1a7&style=flat" alt="n4lkin" /> </p>
-
-<p align="left">
-</p>
-
-<h4 align="center">Now I am evolving as a Backend developer. I have a goal to write a service for users from all over the world and for this I need to evolving more. Good luck 🍀</h3>
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif?cid=ecf05e47o7lgjvr9v3rexfhsrkgmvg5fou2s1c76e6k919og&rid=giphy.gif&ct=gf" width="300"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ilya-brodovoi-019272248/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/N4lkin">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a> 
+  <a href="https://t.me/N4lkin">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div id="django">
+  <h4>
+  <img src="https://blog.skillfactory.ru/wp-content/uploads/2022/03/django_logo.svg-1594273.png" width="100">
+  <img src="https://daniel.feldroy.com/images/drf.png" width="100">
+    
+    API development and structuring
+    Developed a personnel control system within the company
+    Development and implementation of workflow business processes
+    support of one of the projects as a lead developer
+  </h4>
+</div>
+<div id="fastapi">
+  <h4>
+  <img src="https://timeweb.com/ru/community/article/6a/6aec84e99f708bc438b913c3089e18ae.png" width="100">
+  
+    
+    Using as the main database for projects
+  </h4>
+</div>
+<div id="postgresql">
+  <h4>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100">
+    
+    Wrote the project "Auction"
+    Writing business processes to manage the user and his participate in the auction
+  </h4>
+</div>
+<div id="sqlalchemy">
+  <h4>
+  <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" width="100">
+    
+    Work with ORM and Core
+  </h4>
+</div>
+  
+<div id="stack">
+  <h6>
+    All my stack: Django | Django Rest Framework | PostgreSQL | Celery | Redis | Python | Docker | Asyncio | SQL | MongoDB | pytest | FastAPI | SQLAlchemy
+  </h6>
+  <h5>
+    Python 3.x
+  </h5>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=n4lkin&label=Visitors&color=29d1a7&style=flat" alt="n4lkin" /> </p>
